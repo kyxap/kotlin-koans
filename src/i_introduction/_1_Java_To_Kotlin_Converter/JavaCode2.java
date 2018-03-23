@@ -5,7 +5,7 @@ import util.JavaCode;
 import java.util.Collection;
 import java.util.Iterator;
 
-public class JavaCode1 extends JavaCode {
+public class JavaCode2 extends JavaCode {
     public String task1(Collection<Integer> collection) {
         StringBuilder sb = new StringBuilder();
         sb.append("{");
